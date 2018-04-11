@@ -1,0 +1,30 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>im_fn</filename>
+	<source>
+		<database>ROMYNY Database</database>
+		<annotation>ROMYNY Annotation</annotation>
+		<image>Unspecified</image>
+	</source>
+	<owner>
+		<name>Unspecified</name>
+	</owner>
+	<size>
+		<width>802</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BMW</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>36</ymin>
+			<xmax>523</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

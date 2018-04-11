@@ -1,0 +1,42 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>im_fn</filename>
+	<source>
+		<database>ROMYNY Database</database>
+		<annotation>ROMYNY Annotation</annotation>
+		<image>Unspecified</image>
+	</source>
+	<owner>
+		<name>Unspecified</name>
+	</owner>
+	<size>
+		<width>1920</width>
+		<height>1442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Burger_king</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>435</ymin>
+			<xmax>1916</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Burger_king</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>1179</ymin>
+			<xmax>833</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>
